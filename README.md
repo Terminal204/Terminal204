@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Terminal204
-- 👀 I’m interested in mods for Mindustry moding.
+- 👀 I’m interested in mods for Mindustry.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on idk.
 - 📫 How to reach me ask.
 
 <!---
